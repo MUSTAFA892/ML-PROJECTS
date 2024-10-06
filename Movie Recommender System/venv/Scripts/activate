@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\PROJECTS\ML PROJECTS\Movie Recommender System\venv"
+VIRTUAL_ENV="C:\PROJECTS\Machine Learning Projects\Movie Recommender System\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
